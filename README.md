@@ -5,7 +5,8 @@ A simple Vite/TypeScript web project that immediately redirects to [https://abou
 ## Features
 
 - Built with Vite and TypeScript
-- Immediate temporary redirect (HTTP 302 equivalent via JavaScript)
+- Immediate redirect using HTML meta refresh tag (instant, no JavaScript required)
+- JavaScript fallback for maximum compatibility
 - Automatically deployed to GitHub Pages on push to main branch
 
 ## Development
